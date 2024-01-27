@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Piedra</h1>
 <h3 align="center">A Junior searching for first job and projects.</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript** & **SQL**
 
 - 📫 How to reach me **piedra.daniel@gmail.com**
 
