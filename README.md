@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Piedra</h1>
-<h3 align="center">A Junior searching for first job and projects.</h3>
+<h3 align="center">A Junior learning.</h3>
 
 - 🌱 I’m currently learning **JavaScript** & **SQL** & **Kotlin**
 
